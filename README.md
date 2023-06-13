@@ -13,9 +13,3 @@ clean architecture design.
 - Created 80+ paintings 🖼️
 - Roguelike games lover 🎮
 - Sport-chill-work balance ⚖️
-
-### Contacts:
-
-- [LinkedIn](https://www.linkedin.com/in/gigamole/)  
-- [StackOverflow](https://stackoverflow.com/users/4516895/gigamole)
-- [Email](mailto:gigamole53@gmail.com)
