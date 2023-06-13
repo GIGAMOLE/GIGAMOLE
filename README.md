@@ -1,16 +1,23 @@
-### Hi there 👋
+[![](/media/header.png)](https://www.linkedin.com/in/gigamole/)
 
-<!--
-**GIGAMOLE/GIGAMOLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GIGAMOLE ✅
 
-Here are some ideas to get you started:
+I am a Senior Android Developer currently dedicated to Android Jetpack Compose. With 8+ years of
+experience and a focus on Mobile and UI/UX, I create fully testable and scalable projects driven by
+clean architecture design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights:
+
+- Earned 16000+ stars ⭐
+- Reviewed 4 books 📚
+- Ex-co-founded agency 🏢
+- Completed 25+ apps 📱
+- Created 80+ paintings 🖼️
+- Roguelike games lover 🎮
+- Sport-chill-work balance ⚖️
+
+## Contacts:
+
+- [LinkedIn](https://www.linkedin.com/in/gigamole/)  
+- [StackOverflow](https://stackoverflow.com/users/4516895/gigamole)
+- [Email](mailto:gigamole53@gmail.com)
