@@ -1,12 +1,10 @@
 [![](/media/header.png)](https://www.linkedin.com/in/gigamole/)
 
-# GIGAMOLE ✅
-
 I am a Senior Android Developer currently dedicated to Android Jetpack Compose. With 8+ years of
 experience and a focus on Mobile and UI/UX, I create fully testable and scalable projects driven by
 clean architecture design.
 
-## Highlights:
+### Highlights:
 
 - Earned 16000+ stars ⭐
 - Reviewed 4 books 📚
@@ -16,7 +14,7 @@ clean architecture design.
 - Roguelike games lover 🎮
 - Sport-chill-work balance ⚖️
 
-## Contacts:
+### Contacts:
 
 - [LinkedIn](https://www.linkedin.com/in/gigamole/)  
 - [StackOverflow](https://stackoverflow.com/users/4516895/gigamole)
