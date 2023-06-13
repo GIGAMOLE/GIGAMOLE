@@ -6,10 +6,10 @@ clean architecture design.
 
 ### Highlights:
 
-- Earned 16000+ stars ⭐
-- Reviewed 4 books 📚
-- Ex-co-founded agency 🏢
-- Completed 25+ apps 📱
-- Created 80+ paintings 🖼️
-- Roguelike games lover 🎮
-- Sport-chill-work balance ⚖️
+- Earned 16000+ stars
+- Reviewed 4 books
+- Ex-co-founded agency
+- Completed 25+ apps
+- Created 80+ paintings
+- Roguelike games lover
+- Sport-chill-work balance
