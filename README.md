@@ -6,4 +6,4 @@ clean architecture design.
 
 |Highlights|Latest Library|
 |:-:|:-:|
-|<br>• Earned 16000+ stars<br>• Reviewed 4 books<br>• Ex-co-founded agency<br>• Completed 25+ apps<br>• Created 80+ paintings<br>• Roguelike games lover<br>• Sport-chill-work balance<br><img height="1" width="390"/>|<a href="https://github.com/GIGAMOLE/ComposeShadowsPlus"><img src="/media/ComposeShadowsPlus.png" width="390"/></a>
+|<br>• Earned 16000+ stars<br>• Reviewed 4 books<br>• Ex-co-founded agency<br>• Completed 25+ apps<br>• Created 80+ paintings<br>• Roguelike games lover<br>• Sport-chill-work balance<br><img height="1" width="400"/>|<a href="https://github.com/GIGAMOLE/ComposeShadowsPlus"><img src="/media/ComposeShadowsPlus.png" width="400"/></a>
