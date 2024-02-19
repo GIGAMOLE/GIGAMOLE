@@ -6,4 +6,4 @@
 
 |Personal Highlights|Library Spotlight|
 |:-:|:-:|
-|<br>• Earned 16000+ stars<br>• Reviewed 4 books<br>• Ex-co-founded agency<br>• Completed 25+ apps<br>• Created 80+ paintings<br>• Roguelike games lover<br>• Sport-chill-work balance<br><img height="1" width="395"/>|<a href="https://github.com/GIGAMOLE/ComposeScrollbars"><img src="/media/ComposeScrollbars.png" width="395"/></a>
+|<br>• Earned 16000+ stars<br>• Reviewed 4 books<br>• Ex-co-founded agency<br>• Completed 25+ apps<br>• Created 80+ paintings<br>• Roguelike games lover<br>• Sport-chill-work balance<br><img height="1" width="395"/>|<a href="https://github.com/GIGAMOLE/ComposeScrollbars"><img src="/media/ComposeScrollbars-2.png" width="395"/></a>
